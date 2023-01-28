@@ -1,0 +1,451 @@
+{
+  "Features": {
+    "MiddleClickFriend": {
+      "state": true,
+      "keyIndex": 0
+    },
+    "HitFlyingParticles": {
+      "state": true,
+      "keyIndex": 0,
+      "Settings": {
+        "Particles Color": -15737089,
+        "Delete": 1500.0
+      }
+    },
+    "NoRenderOverlay": {
+      "state": true,
+      "keyIndex": 0,
+      "Settings": {
+        "Rain": true,
+        "Armor Stand": true,
+        "Hurt Cam": true,
+        "Anti Totem Animation": true,
+        "No Fire Overlay": true,
+        "Blindness": true,
+        "No Boss Bar": true,
+        "Camera Clip": true
+      }
+    },
+    "NoFriendDamage": {
+      "state": false,
+      "keyIndex": 0
+    },
+    "MiddleClickPearl": {
+      "state": true,
+      "keyIndex": 0
+    },
+    "ItemAnimations": {
+      "state": true,
+      "keyIndex": 0,
+      "Settings": {
+        "Animation": "Жопа",
+        "Swing Speed": 15.0,
+        "Fap Speed": 15.0,
+        "Wrap Speed": 10.0,
+        "Spin Speed": 7.0,
+        "Only Aura": false
+      }
+    },
+    "HitMCParticles": {
+      "state": false,
+      "keyIndex": 0,
+      "Settings": {
+        "Value": 5.0
+      }
+    },
+    "WorldFeatures": {
+      "state": true,
+      "keyIndex": 0,
+      "Settings": {
+        "Snow": true,
+        "Weather Color": -8738817,
+        "World Color": true,
+        "Color World": -4738049,
+        "Ambience": true,
+        "Ambience Mode": "Day",
+        "Speed": 20.0
+      }
+    },
+    "NoJumpDelay": {
+      "state": true,
+      "keyIndex": 0
+    },
+    "ElytraDisabler": {
+      "state": true,
+      "keyIndex": 21,
+      "Settings": {
+        "Speed Value": 0.25
+      }
+    },
+    "NoSlowDown": {
+      "state": false,
+      "keyIndex": 72,
+      "Settings": {
+        "NoSlow Mode": "Sunrise",
+        "Percentage": 64.0
+      }
+    },
+    "DeathCoords": {
+      "state": true,
+      "keyIndex": 0
+    },
+    "JumpCircles": {
+      "state": true,
+      "keyIndex": 0,
+      "Settings": {
+        "Circles Color": -16269825,
+        "Color": "Custom",
+        "Saturation": 0.5,
+        "Alt Circles Color": -12515329,
+        "Delay": 2550.0
+      }
+    },
+    "PearlTracers": {
+      "state": true,
+      "keyIndex": 0,
+      "Settings": {
+        "Tracers Color": -62403
+      }
+    },
+    "ElytraHelper": {
+      "state": true,
+      "keyIndex": 0,
+      "Settings": {
+        "AutoElytra": false,
+        "AutoJump": false,
+        "AutoFly": false
+      }
+    },
+    "ItemScroller": {
+      "state": true,
+      "keyIndex": 0,
+      "Settings": {
+        "Delay": 36.0
+      }
+    },
+    "ChatHistory": {
+      "state": true,
+      "keyIndex": 0
+    },
+    "ItemPhysics": {
+      "state": true,
+      "keyIndex": 0,
+      "Settings": {
+        "Speed": 0.5
+      }
+    },
+    "WindowGUI": {
+      "state": false,
+      "keyIndex": 54,
+      "Settings": {
+        "Blur": true,
+        "GrayFilter": false
+      }
+    },
+    "ElytraBoost": {
+      "state": false,
+      "keyIndex": 22
+    },
+    "Scoreboard": {
+      "state": true,
+      "keyIndex": 0,
+      "Settings": {
+        "No Scoreboard": true,
+        "Scoreboard X": 0.0,
+        "Scoreboard Y": 0.0
+      }
+    },
+    "TargetHUD": {
+      "state": true,
+      "keyIndex": 0,
+      "Settings": {
+        "Particles": true,
+        "Particles Color": -16537613,
+        "TargetHUD Color": -16537613
+      }
+    },
+    "Name Tags": {
+      "state": true,
+      "keyIndex": 0,
+      "Settings": {
+        "Show Armor": true,
+        "Show Potions": true,
+        "NameTags Background": true
+      }
+    },
+    "BowExploit": {
+      "state": false,
+      "keyIndex": 0,
+      "Settings": {
+        "Power": 0.0
+      }
+    },
+    "ModuleList": {
+      "state": true,
+      "keyIndex": 0,
+      "Settings": {
+        "Array Color": -16632065,
+        "Alt Color": -14876722,
+        "Saturation": 0.5,
+        "Color": "Custom",
+        "No Visual": false,
+        "Only Binds": false,
+        "Brightness": 1.0,
+        "Background Opacity": 35.7,
+        "Color Speed": 8.4,
+        "Color Offset": 1.0,
+        "ArrayList Offset": 0.1,
+        "X BG Pos": 1.6,
+        "Array Fonts": "SFUI"
+      }
+    },
+    "AutoPotion": {
+      "state": false,
+      "keyIndex": 0,
+      "Settings": {
+        "Hotbar Only": true,
+        "Only Ground": true,
+        "Strenght": true,
+        "Speed": true,
+        "Fire Resistance": true
+      }
+    },
+    "AutoTotem": {
+      "state": false,
+      "keyIndex": 0,
+      "Settings": {
+        "Swap Back": true,
+        "Swap back delay": 100.0,
+        "Health Amount": 3.5,
+        "Only Inventory": false,
+        "Count Totem": true,
+        "Check Fall": true,
+        "Fall Distance": 15.0,
+        "Check Crystal": true,
+        "Distance to Crystal": 6.0,
+        "Check Tnt": true,
+        "Distance to Tnt": 6.0
+      }
+    },
+    "PotionHUD": {
+      "state": true,
+      "keyIndex": 0
+    },
+    "ViewModel": {
+      "state": true,
+      "keyIndex": 0,
+      "Settings": {
+        "Right X": -0.9,
+        "Right Y": 0.3,
+        "Right Z": 0.4,
+        "Left X": 0.9,
+        "Left Y": -0.6,
+        "Left Z": -1.1
+      }
+    },
+    "TriggerBot": {
+      "state": false,
+      "keyIndex": 0,
+      "Settings": {
+        "Trigger Range": 4.0,
+        "Players": true,
+        "Mobs": false,
+        "Only Crits": false,
+        "Fall Distance": 0.2
+      }
+    },
+    "NoInteract": {
+      "state": false,
+      "keyIndex": 37,
+      "Settings": {
+        "Armor Stand": true,
+        "Chest": false,
+        "Doors": true,
+        "Hopper": true,
+        "Buttons": true,
+        "Dispenser": true,
+        "Note Block": true,
+        "Crafting Table": true,
+        "TrapDoor": true,
+        "Furnace": true,
+        "Gate": true,
+        "Anvil": true,
+        "Lever": true
+      }
+    },
+    "FullBright": {
+      "state": false,
+      "keyIndex": 0
+    },
+    "Crosshair": {
+      "state": true,
+      "keyIndex": 0,
+      "Settings": {
+        "Circle Color": -4370
+      }
+    },
+    "NoRotate": {
+      "state": false,
+      "keyIndex": 0
+    },
+    "ChinaHat": {
+      "state": true,
+      "keyIndex": 0,
+      "Settings": {
+        "Color": "Custom",
+        "Hat Color": -4980771,
+        "Saturation": 0.5,
+        "Alt Hat Color": -12515329
+      }
+    },
+    "FreeCam": {
+      "state": false,
+      "keyIndex": 45,
+      "Settings": {
+        "Flying Speed": 0.5
+      }
+    },
+    "GuiMove": {
+      "state": true,
+      "keyIndex": 0
+    },
+    "FastBow": {
+      "state": false,
+      "keyIndex": 0,
+      "Settings": {
+        "Bow Delay": 1.0
+      }
+    },
+    "ItemESP": {
+      "state": true,
+      "keyIndex": 0,
+      "Settings": {
+        "ItemESP Color": -1
+      }
+    },
+    "Velocity": {
+      "state": true,
+      "keyIndex": 36,
+      "Settings": {
+        "Velocity Mode": "Packet"
+      }
+    },
+    "AntiAFK": {
+      "state": true,
+      "keyIndex": 0,
+      "Settings": {
+        "Spin": false,
+        "Send Message": true,
+        "Send Delay": 1000.0,
+        "Jump": false
+      }
+    },
+    "NoPush": {
+      "state": true,
+      "keyIndex": 0,
+      "Settings": {
+        "Entity": true,
+        "Water": true,
+        "Blocks": true
+      }
+    },
+    "Tracers": {
+      "state": false,
+      "keyIndex": 0,
+      "Settings": {
+        "width": 0.5,
+        "onlyplayers": true,
+        "Tracers Color": -1
+      }
+    },
+    "HitBox": {
+      "state": false,
+      "keyIndex": 0,
+      "Settings": {
+        "HitBox Size": 0.25
+      }
+    },
+    "NoClip": {
+      "state": false,
+      "keyIndex": 0,
+      "Settings": {
+        "Type": "Sunrise"
+      }
+    },
+    "Spider": {
+      "state": false,
+      "keyIndex": 35,
+      "Settings": {
+        "Spider Mode": "Matrix",
+        "Spider Speed": 1.0
+      }
+    },
+    "Speed": {
+      "state": false,
+      "keyIndex": 48,
+      "Settings": {
+        "Speed Mode": "Sunrise"
+      }
+    },
+    "Strafe": {
+      "state": false,
+      "keyIndex": 0,
+      "Settings": {
+        "Smart": false
+      }
+    },
+    "Sprint": {
+      "state": true,
+      "keyIndex": 0
+    },
+    "Timer": {
+      "state": false,
+      "keyIndex": 47,
+      "Settings": {
+        "Speed": 4.0,
+        "Smart": true
+      }
+    },
+    "HUD": {
+      "state": true,
+      "keyIndex": 0,
+      "Settings": {
+        "Water Mark": true,
+        "User information": true,
+        "Armor HUD": true,
+        "Self Health": false,
+        "HUD Color": -16626177
+      }
+    },
+    "Aura": {
+      "state": false,
+      "keyIndex": 19,
+      "Settings": {
+        "FOV": 180.0,
+        "Distance": 3.0,
+        "Rotate": 3.0,
+        "Rotation": "Matrix",
+        "Targets": "Players",
+        "Ignore Walls": true,
+        "Weapon Only": false,
+        "Client Look": false,
+        "Shield Breaker": false,
+        "Ignore Naked": false,
+        "Resolve Position": false,
+        "Ignore Invisibles": false,
+        "Criticals": true,
+        "Auto Jump": false,
+        "NoInteract": false,
+        "Shield Desync": false,
+        "Wait Target": false
+      }
+    },
+    "GPS": {
+      "state": false,
+      "keyIndex": 0,
+      "Settings": {
+        "GPS Color": -1
+      }
+    }
+  }
+}

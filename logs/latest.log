@@ -1,0 +1,1020 @@
+[17:12:29] [Client thread/ERROR]: Can't find the resource index file: \indexes\1.12.json
+[17:12:30] [Client thread/INFO]: Setting user: Penis
+[17:12:33] [Client thread/INFO]: [OptiFine] *** Reflector Forge ***
+[17:12:33] [Client thread/INFO]: [OptiFine] *** Reflector Vanilla ***
+[17:12:33] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.settings.KeyConflictContext
+[17:12:34] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.common.eventhandler.Event$Result
+[17:12:34] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraft.launchwrapper.Launch
+[17:12:34] [Client thread/INFO]: LWJGL Version: 2.9.4
+[17:12:36] [Client thread/INFO]: [OptiFine] 
+[17:12:36] [Client thread/INFO]: [OptiFine] OptiFine_1.12.2_HD_U_G5
+[17:12:36] [Client thread/INFO]: [OptiFine] Build: null
+[17:12:36] [Client thread/INFO]: [OptiFine] OS: Windows 11 (amd64) version 10.0
+[17:12:36] [Client thread/INFO]: [OptiFine] Java: 1.8.0_352, Amazon.com Inc.
+[17:12:36] [Client thread/INFO]: [OptiFine] VM: OpenJDK 64-Bit Server VM (mixed mode), Amazon.com Inc.
+[17:12:36] [Client thread/INFO]: [OptiFine] LWJGL: 2.9.4
+[17:12:36] [Client thread/INFO]: [OptiFine] OpenGL: NVIDIA GeForce GTX 960M/PCIe/SSE2, version 4.6.0 NVIDIA 528.02, NVIDIA Corporation
+[17:12:36] [Client thread/INFO]: [OptiFine] OpenGL Version: 4.6.0
+[17:12:36] [Client thread/INFO]: [OptiFine] Maximum texture size: 16384x16384
+[17:12:36] [VersionCheck/INFO]: [OptiFine] Checking for new version
+[17:12:36] [Client thread/INFO]: [Shaders] OpenGL Version: 4.6.0 NVIDIA 528.02
+[17:12:36] [Client thread/INFO]: [Shaders] Vendor:  NVIDIA Corporation
+[17:12:36] [Client thread/INFO]: [Shaders] Renderer: NVIDIA GeForce GTX 960M/PCIe/SSE2
+[17:12:36] [Client thread/INFO]: [Shaders] Capabilities:  2.0  2.1  3.0  3.2  4.0 
+[17:12:36] [Client thread/INFO]: [Shaders] GL_MAX_DRAW_BUFFERS: 8
+[17:12:36] [Client thread/INFO]: [Shaders] GL_MAX_COLOR_ATTACHMENTS_EXT: 8
+[17:12:36] [Client thread/INFO]: [Shaders] GL_MAX_TEXTURE_IMAGE_UNITS: 32
+[17:12:36] [Client thread/INFO]: [Shaders] Load shaders configuration.
+[17:12:36] [Client thread/INFO]: [Shaders] Save shaders configuration.
+[17:12:36] [Client thread/INFO]: [Shaders] No shaderpack loaded.
+[17:12:36] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.common.Loader
+[17:12:36] [VersionCheck/INFO]: [OptiFine] Version found: G5
+[17:12:36] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.client.SplashProgress
+[17:12:36] [Client thread/INFO]: Reloading ResourceManager: Default
+[17:12:36] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: optifine.OptiFineClassTransformer
+[17:12:36] [Client thread/INFO]: [OptiFine] *** Reloading textures ***
+[17:12:36] [Client thread/INFO]: [OptiFine] Resource packs: Default
+[17:12:36] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.model.Attributes
+[17:12:36] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.client.renderer.vertex.VertexFormatElement$EnumUsage.preDraw
+[17:12:36] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.client.renderer.vertex.VertexFormatElement$EnumUsage.postDraw
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:ambient.cave
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:block.anvil.break
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:block.anvil.destroy
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:block.anvil.fall
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:block.anvil.hit
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:block.anvil.land
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:block.anvil.place
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:block.anvil.step
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:block.anvil.use
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:block.brewing_stand.brew
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:block.chest.close
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:block.chest.locked
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:block.chest.open
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:block.chorus_flower.death
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:block.chorus_flower.grow
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:block.cloth.break
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:block.cloth.fall
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:block.cloth.hit
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:block.cloth.place
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:block.cloth.step
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:block.comparator.click
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:block.dispenser.dispense
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:block.dispenser.fail
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:block.dispenser.launch
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:block.enchantment_table.use
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:block.end_gateway.spawn
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:block.end_portal.spawn
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:block.end_portal_frame.fill
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:block.enderchest.close
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:block.enderchest.open
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:block.fence_gate.close
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:block.fence_gate.open
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:block.fire.ambient
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:block.fire.extinguish
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:block.furnace.fire_crackle
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:block.glass.break
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:block.glass.fall
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:block.glass.hit
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:block.glass.place
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:block.glass.step
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:block.grass.break
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:block.grass.fall
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:block.grass.hit
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:block.grass.place
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:block.grass.step
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:block.gravel.break
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:block.gravel.fall
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:block.gravel.hit
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:block.gravel.place
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:block.gravel.step
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:block.iron_door.close
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:block.iron_door.open
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:block.iron_trapdoor.close
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:block.iron_trapdoor.open
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:block.ladder.break
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:block.ladder.fall
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:block.ladder.hit
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:block.ladder.place
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:block.ladder.step
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:block.lava.ambient
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:block.lava.extinguish
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:block.lava.pop
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:block.lever.click
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:block.metal.break
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:block.metal.fall
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:block.metal.hit
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:block.metal.place
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:block.metal.step
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:block.metal_pressureplate.click_off
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:block.metal_pressureplate.click_on
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:block.note.basedrum
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:block.note.bass
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:block.note.bell
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:block.note.chime
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:block.note.flute
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:block.note.guitar
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:block.note.harp
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:block.note.hat
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:block.note.pling
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:block.note.snare
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:block.note.xylophone
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:block.piston.contract
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:block.piston.extend
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:block.portal.ambient
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:block.portal.travel
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:block.portal.trigger
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:block.redstone_torch.burnout
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:block.sand.break
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:block.sand.fall
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:block.sand.hit
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:block.sand.place
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:block.sand.step
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:block.shulker_box.close
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:block.shulker_box.open
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:block.slime.break
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:block.slime.fall
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:block.slime.hit
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:block.slime.place
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:block.slime.step
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:block.snow.break
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:block.snow.fall
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:block.snow.hit
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:block.snow.place
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:block.snow.step
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:block.stone.break
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:block.stone.fall
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:block.stone.hit
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:block.stone.place
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:block.stone.step
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:block.stone_button.click_off
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:block.stone_button.click_on
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:block.stone_pressureplate.click_off
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:block.stone_pressureplate.click_on
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:block.tripwire.attach
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:block.tripwire.click_off
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:block.tripwire.click_on
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:block.tripwire.detach
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:block.water.ambient
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:block.waterlily.place
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:block.wood.break
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:block.wood.fall
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:block.wood.hit
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:block.wood.place
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:block.wood.step
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:block.wood_button.click_off
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:block.wood_button.click_on
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:block.wood_pressureplate.click_off
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:block.wood_pressureplate.click_on
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:block.wooden_door.close
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:block.wooden_door.open
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:block.wooden_trapdoor.close
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:block.wooden_trapdoor.open
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:enchant.thorns.hit
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.armorstand.break
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.armorstand.fall
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.armorstand.hit
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.armorstand.place
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.arrow.hit
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.arrow.hit_player
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.arrow.shoot
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.bat.ambient
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.bat.death
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.bat.hurt
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.bat.loop
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.bat.takeoff
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.blaze.ambient
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.blaze.burn
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.blaze.death
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.blaze.hurt
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.blaze.shoot
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.boat.paddle_land
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.boat.paddle_water
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.bobber.retrieve
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.bobber.splash
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.bobber.throw
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.cat.ambient
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.cat.death
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.cat.hiss
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.cat.hurt
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.cat.purr
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.cat.purreow
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.chicken.ambient
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.chicken.death
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.chicken.egg
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.chicken.hurt
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.chicken.step
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.cow.ambient
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.cow.death
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.cow.hurt
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.cow.milk
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.cow.step
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.creeper.death
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.creeper.hurt
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.creeper.primed
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.donkey.ambient
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.donkey.angry
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.donkey.chest
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.donkey.death
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.donkey.hurt
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.egg.throw
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.elder_guardian.ambient
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.elder_guardian.ambient_land
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.elder_guardian.curse
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.elder_guardian.death
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.elder_guardian.death_land
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.elder_guardian.flop
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.elder_guardian.hurt
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.elder_guardian.hurt_land
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.enderdragon.ambient
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.enderdragon.death
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.enderdragon.flap
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.enderdragon.growl
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.enderdragon.hurt
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.enderdragon.shoot
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.enderdragon_fireball.explode
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.endereye.death
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.endereye.launch
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.endermen.ambient
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.endermen.death
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.endermen.hurt
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.endermen.scream
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.endermen.stare
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.endermen.teleport
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.endermite.ambient
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.endermite.death
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.endermite.hurt
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.endermite.step
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.enderpearl.throw
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.evocation_fangs.attack
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.evocation_illager.ambient
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.evocation_illager.cast_spell
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.evocation_illager.death
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.evocation_illager.hurt
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.evocation_illager.prepare_attack
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.evocation_illager.prepare_summon
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.evocation_illager.prepare_wololo
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.experience_bottle.throw
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.experience_orb.pickup
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.firework.blast
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.firework.blast_far
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.firework.large_blast
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.firework.large_blast_far
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.firework.launch
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.firework.shoot
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.firework.twinkle
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.firework.twinkle_far
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.generic.big_fall
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.generic.burn
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.generic.death
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.generic.drink
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.generic.eat
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.generic.explode
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.generic.extinguish_fire
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.generic.hurt
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.generic.small_fall
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.generic.splash
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.generic.swim
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.ghast.ambient
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.ghast.death
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.ghast.hurt
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.ghast.scream
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.ghast.shoot
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.ghast.warn
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.guardian.ambient
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.guardian.ambient_land
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.guardian.attack
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.guardian.death
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.guardian.death_land
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.guardian.flop
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.guardian.hurt
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.guardian.hurt_land
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.horse.ambient
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.horse.angry
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.horse.armor
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.horse.breathe
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.horse.death
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.horse.eat
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.horse.gallop
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.horse.hurt
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.horse.jump
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.horse.land
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.horse.saddle
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.horse.step
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.horse.step_wood
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.hostile.big_fall
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.hostile.death
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.hostile.hurt
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.hostile.small_fall
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.hostile.splash
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.hostile.swim
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.husk.ambient
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.husk.death
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.husk.hurt
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.husk.step
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.illusion_illager.ambient
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.illusion_illager.cast_spell
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.illusion_illager.death
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.illusion_illager.hurt
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.illusion_illager.mirror_move
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.illusion_illager.prepare_blindness
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.illusion_illager.prepare_mirror
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.irongolem.attack
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.irongolem.death
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.irongolem.hurt
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.irongolem.step
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.item.break
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.item.pickup
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.itemframe.add_item
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.itemframe.break
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.itemframe.place
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.itemframe.remove_item
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.itemframe.rotate_item
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.leashknot.break
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.leashknot.place
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.lightning.impact
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.lightning.thunder
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.lingeringpotion.throw
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.llama.ambient
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.llama.angry
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.llama.chest
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.llama.death
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.llama.eat
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.llama.hurt
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.llama.spit
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.llama.step
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.llama.swag
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.magmacube.death
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.magmacube.hurt
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.magmacube.jump
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.magmacube.squish
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.minecart.inside
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.minecart.riding
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.mooshroom.shear
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.mule.ambient
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.mule.chest
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.mule.death
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.mule.hurt
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.painting.break
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.painting.place
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.parrot.ambient
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.parrot.death
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.parrot.eat
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.parrot.fly
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.parrot.hurt
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.parrot.imitate.blaze
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.parrot.imitate.creeper
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.parrot.imitate.elder_guardian
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.parrot.imitate.enderdragon
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.parrot.imitate.enderman
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.parrot.imitate.endermite
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.parrot.imitate.evocation_illager
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.parrot.imitate.ghast
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.parrot.imitate.husk
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.parrot.imitate.illusion_illager
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.parrot.imitate.magmacube
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.parrot.imitate.polar_bear
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.parrot.imitate.shulker
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.parrot.imitate.silverfish
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.parrot.imitate.skeleton
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.parrot.imitate.slime
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.parrot.imitate.spider
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.parrot.imitate.stray
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.parrot.imitate.vex
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.parrot.imitate.vindication_illager
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.parrot.imitate.witch
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.parrot.imitate.wither
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.parrot.imitate.wither_skeleton
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.parrot.imitate.wolf
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.parrot.imitate.zombie
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.parrot.imitate.zombie_pigman
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.parrot.imitate.zombie_villager
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.parrot.step
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.pig.ambient
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.pig.death
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.pig.hurt
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.pig.saddle
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.pig.step
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.player.attack.crit
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.player.attack.knockback
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.player.attack.nodamage
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.player.attack.strong
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.player.attack.sweep
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.player.attack.weak
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.player.big_fall
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.player.breath
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.player.burp
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.player.death
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.player.hurt
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.player.hurt_drown
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.player.hurt_on_fire
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.player.levelup
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.player.small_fall
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.player.splash
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.player.swim
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.polar_bear.ambient
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.polar_bear.baby_ambient
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.polar_bear.death
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.polar_bear.hurt
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.polar_bear.step
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.polar_bear.warning
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.rabbit.ambient
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.rabbit.attack
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.rabbit.death
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.rabbit.hurt
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.rabbit.jump
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.sheep.ambient
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.sheep.death
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.sheep.hurt
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.sheep.shear
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.sheep.step
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.shulker.ambient
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.shulker.close
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.shulker.death
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.shulker.hurt
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.shulker.hurt_closed
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.shulker.open
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.shulker.shoot
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.shulker.teleport
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.shulker_bullet.hit
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.shulker_bullet.hurt
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.silverfish.ambient
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.silverfish.death
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.silverfish.hurt
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.silverfish.step
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.skeleton.ambient
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.skeleton.death
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.skeleton.hurt
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.skeleton.shoot
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.skeleton.step
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.skeleton_horse.ambient
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.skeleton_horse.death
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.skeleton_horse.hurt
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.slime.attack
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.slime.death
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.slime.hurt
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.slime.jump
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.slime.squish
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.small_magmacube.death
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.small_magmacube.hurt
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.small_magmacube.squish
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.small_slime.death
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.small_slime.hurt
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.small_slime.jump
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.small_slime.squish
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.snowball.throw
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.snowman.ambient
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.snowman.death
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.snowman.hurt
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.snowman.shoot
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.spider.ambient
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.spider.death
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.spider.hurt
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.spider.step
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.splash_potion.break
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.splash_potion.throw
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.squid.ambient
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.squid.death
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.squid.hurt
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.stray.ambient
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.stray.death
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.stray.hurt
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.stray.step
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.tnt.primed
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.vex.ambient
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.vex.charge
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.vex.death
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.vex.hurt
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.villager.ambient
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.villager.death
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.villager.hurt
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.villager.no
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.villager.trading
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.villager.yes
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.vindication_illager.ambient
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.vindication_illager.death
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.vindication_illager.hurt
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.witch.ambient
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.witch.death
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.witch.drink
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.witch.hurt
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.witch.throw
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.wither.ambient
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.wither.break_block
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.wither.death
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.wither.hurt
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.wither.shoot
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.wither.spawn
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.wither_skeleton.ambient
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.wither_skeleton.death
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.wither_skeleton.hurt
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.wither_skeleton.step
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.wolf.ambient
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.wolf.death
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.wolf.growl
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.wolf.howl
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.wolf.hurt
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.wolf.pant
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.wolf.shake
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.wolf.step
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.wolf.whine
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.zombie.ambient
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.zombie.attack_door_wood
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.zombie.attack_iron_door
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.zombie.break_door_wood
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.zombie.death
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.zombie.hurt
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.zombie.infect
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.zombie.step
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.zombie_horse.ambient
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.zombie_horse.death
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.zombie_horse.hurt
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.zombie_pig.ambient
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.zombie_pig.angry
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.zombie_pig.death
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.zombie_pig.hurt
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.zombie_villager.ambient
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.zombie_villager.converted
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.zombie_villager.cure
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.zombie_villager.death
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.zombie_villager.hurt
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:entity.zombie_villager.step
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:item.armor.equip_chain
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:item.armor.equip_diamond
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:item.armor.equip_elytra
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:item.armor.equip_generic
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:item.armor.equip_gold
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:item.armor.equip_iron
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:item.armor.equip_leather
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:item.bottle.empty
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:item.bottle.fill
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:item.bottle.fill_dragonbreath
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:item.bucket.empty
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:item.bucket.empty_lava
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:item.bucket.fill
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:item.bucket.fill_lava
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:item.chorus_fruit.teleport
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:item.elytra.flying
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:item.firecharge.use
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:item.flintandsteel.use
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:item.hoe.till
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:item.shield.block
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:item.shield.break
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:item.shovel.flatten
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:item.totem.use
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:music.creative
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:music.credits
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:music.dragon
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:music.end
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:music.game
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:music.menu
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:music.nether
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:record.11
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:record.13
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:record.blocks
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:record.cat
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:record.chirp
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:record.far
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:record.mall
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:record.mellohi
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:record.stal
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:record.strad
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:record.wait
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:record.ward
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:ui.button.click
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:ui.toast.in
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:ui.toast.out
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:ui.toast.challenge_complete
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:weather.rain
+[17:12:36] [Client thread/WARN]: Missing sound for event: minecraft:weather.rain.above
+[17:12:36] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[17:12:37] [Thread-3/INFO]: Initializing LWJGL OpenAL
+[17:12:37] [Thread-3/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[17:12:37] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.client.renderer.block.model.ModelBlockDefinition.parseFromReader
+[17:12:37] [Client thread/INFO]: [OptiFine] (Reflector) Field not present: net.minecraft.item.Item.delegate
+[17:12:37] [Thread-3/INFO]: OpenAL initialized.
+[17:12:37] [Sound Library Loader/INFO]: Sound engine started
+[17:12:38] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.ForgeHooksClient
+[17:12:41] [Client thread/INFO]: [OptiFine] Mipmap levels: 4
+[17:12:41] [Client thread/INFO]: [OptiFine] Multitexture: false
+[17:12:41] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/0_glass_white/glass_pane_white.properties
+[17:12:41] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/0_glass_white/glass_white.properties
+[17:12:41] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/10_glass_purple/glass_pane_purple.properties
+[17:12:41] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/10_glass_purple/glass_purple.properties
+[17:12:41] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/11_glass_blue/glass_blue.properties
+[17:12:41] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/11_glass_blue/glass_pane_blue.properties
+[17:12:42] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/12_glass_brown/glass_brown.properties
+[17:12:42] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/12_glass_brown/glass_pane_brown.properties
+[17:12:42] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/13_glass_green/glass_green.properties
+[17:12:42] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/13_glass_green/glass_pane_green.properties
+[17:12:42] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/14_glass_red/glass_pane_red.properties
+[17:12:42] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/14_glass_red/glass_red.properties
+[17:12:42] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/15_glass_black/glass_black.properties
+[17:12:42] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/15_glass_black/glass_pane_black.properties
+[17:12:42] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/1_glass_orange/glass_orange.properties
+[17:12:42] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/1_glass_orange/glass_pane_orange.properties
+[17:12:42] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/2_glass_magenta/glass_magenta.properties
+[17:12:42] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/2_glass_magenta/glass_pane_magenta.properties
+[17:12:42] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/3_glass_light_blue/glass_light_blue.properties
+[17:12:42] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/3_glass_light_blue/glass_pane_light_blue.properties
+[17:12:42] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/4_glass_yellow/glass_pane_yellow.properties
+[17:12:42] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/4_glass_yellow/glass_yellow.properties
+[17:12:42] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/5_glass_lime/glass_lime.properties
+[17:12:42] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/5_glass_lime/glass_pane_lime.properties
+[17:12:43] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/6_glass_pink/glass_pane_pink.properties
+[17:12:43] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/6_glass_pink/glass_pink.properties
+[17:12:43] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/7_glass_gray/glass_gray.properties
+[17:12:43] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/7_glass_gray/glass_pane_gray.properties
+[17:12:43] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/8_glass_silver/glass_pane_silver.properties
+[17:12:43] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/8_glass_silver/glass_silver.properties
+[17:12:43] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/9_glass_cyan/glass_cyan.properties
+[17:12:43] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/9_glass_cyan/glass_pane_cyan.properties
+[17:12:43] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/bookshelf.properties
+[17:12:43] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/glass.properties
+[17:12:43] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/glasspane.properties
+[17:12:43] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/sandstone.properties
+[17:12:43] [Client thread/INFO]: [OptiFine] Multipass connected textures: false
+[17:12:43] [Client thread/INFO]: [OptiFine] BetterGrass: Parsing default configuration optifine/bettergrass.properties
+[17:12:51] [Client thread/INFO]: Created: 1024x512 textures-atlas
+[17:12:51] [Client thread/INFO]: [OptiFine] Animated sprites: 22
+[17:12:51] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.ForgeModContainer
+[17:12:51] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.ItemModelMesherForge
+[17:12:51] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.model.ModelLoader
+[17:12:51] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.client.registry.RenderingRegistry
+[17:12:52] [Client thread/INFO]: Narrator library for x64 successfully loaded
+[17:12:52] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: mods.betterfoliage.client.BetterFoliageClient
+[17:12:52] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.event.world.ChunkWatchEvent$UnWatch
+[17:12:52] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.relauncher.CoreModManager
+[17:12:52] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.DimensionManager
+[17:12:52] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.GuiScreenEvent$DrawScreenEvent$Pre
+[17:12:52] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.GuiScreenEvent$DrawScreenEvent$Post
+[17:12:52] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.EntityViewRenderEvent$CameraSetup
+[17:12:52] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.EntityViewRenderEvent$FogColors
+[17:12:52] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.EntityViewRenderEvent$RenderFogEvent
+[17:12:52] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.common.eventhandler.Event
+[17:12:52] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.common.eventhandler.EventBus
+[17:12:52] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.property.ExtendedBlockState
+[17:12:52] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.client.FMLClientHandler
+[17:12:52] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.common.FMLCommonHandler
+[17:12:52] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.client.renderer.ActiveRenderInfo.getCameraPosition
+[17:12:52] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.client.renderer.ActiveRenderInfo.updateRenderInfo
+[17:12:52] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.world.biome.Biome.getWaterColorMultiplier
+[17:12:52] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.world.biome.Biome$SpawnListEntry.newInstance
+[17:12:52] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.block.Block.addDestroyEffects
+[17:12:52] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.block.Block.addHitEffects
+[17:12:52] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.block.Block.canCreatureSpawn
+[17:12:52] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.block.Block.canRenderInLayer
+[17:12:52] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.block.Block.doesSideBlockRendering
+[17:12:52] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.block.Block.doesSideBlockChestOpening
+[17:12:52] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.block.Block.getBedDirection
+[17:12:52] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.block.Block.getExtendedState
+[17:12:52] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.block.Block.getFogColor
+[17:12:52] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.block.Block.getLightOpacity
+[17:12:52] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.block.Block.getLightValue
+[17:12:52] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.block.Block.getSoundType
+[17:12:52] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.block.Block.hasTileEntity
+[17:12:52] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.block.Block.isAir
+[17:12:52] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.block.Block.isBed
+[17:12:52] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.block.Block.isBedFoot
+[17:12:52] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.block.Block.isSideSolid
+[17:12:52] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.client.renderer.block.model.IBakedModel.isAmbientOcclusion
+[17:12:52] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.block.state.IBlockProperties.getLightValue
+[17:12:52] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.world.ChunkCache.isSideSolid
+[17:12:52] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.entity.Entity.canRiderInteract
+[17:12:52] [Client thread/INFO]: [OptiFine] (Reflector) Field not present: net.minecraft.entity.Entity.captureDrops
+[17:12:52] [Client thread/INFO]: [OptiFine] (Reflector) Field not present: net.minecraft.entity.Entity.capturedDrops
+[17:12:52] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.entity.Entity.shouldRenderInPass
+[17:12:52] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.entity.Entity.shouldRiderSit
+[17:12:52] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.entity.EntityList.getClass
+[17:12:52] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.entity.EntityList.getID
+[17:12:52] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.event.ForgeEventFactory
+[17:12:52] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.ForgeHooks
+[17:12:52] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.item.Item.getDurabilityForDisplay
+[17:12:52] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.item.Item.getEquipmentSlot
+[17:12:52] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.item.Item.getTileEntityItemStackRenderer
+[17:12:52] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.item.Item.getRGBDurabilityForDisplay
+[17:12:52] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.item.Item.isShield
+[17:12:52] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.item.Item.onEntitySwing
+[17:12:52] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.item.Item.shouldCauseReequipAnimation
+[17:12:52] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.item.Item.showDurabilityBar
+[17:12:52] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.item.ItemArmor.hasOverlay
+[17:12:52] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.client.settings.KeyBinding.setKeyConflictContext
+[17:12:52] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.client.settings.KeyBinding.setKeyModifierAndCode
+[17:12:52] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.client.settings.KeyBinding.getKeyModifier
+[17:12:52] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.potion.Potion.shouldRenderHUD
+[17:12:52] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.potion.Potion.renderHUDEffect
+[17:12:52] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.potion.PotionEffect.isCurativeItem
+[17:12:52] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.tileentity.TileEntity.canRenderBreaking
+[17:12:52] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.tileentity.TileEntity.getRenderBoundingBox
+[17:12:52] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.tileentity.TileEntity.hasFastRenderer
+[17:12:52] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.tileentity.TileEntity.shouldRenderInPass
+[17:12:52] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.world.World.countEntities
+[17:12:52] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.world.World.getPerWorldStorage
+[17:12:52] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.world.World.initCapabilities
+[17:12:52] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.world.WorldProvider.getCloudRenderer
+[17:12:52] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.world.WorldProvider.getSkyRenderer
+[17:12:52] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.world.WorldProvider.getWeatherRenderer
+[17:12:52] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.world.WorldProvider.getLightmapColors
+[17:12:52] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.world.WorldProvider.getSaveFolder
+[17:12:52] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.client.GuiModList
+[17:12:52] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.property.IExtendedBlockState
+[17:12:52] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.registries.IForgeRegistryEntry$Impl
+[17:12:52] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.model.IModel
+[17:12:52] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.IRenderHandler
+[17:12:52] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.settings.KeyModifier
+[17:12:52] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.model.pipeline.LightUtil
+[17:12:52] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.MinecraftForge
+[17:12:52] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.MinecraftForgeClient
+[17:12:52] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.common.ModContainer
+[17:12:52] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.model.ModelLoader$VanillaLoader
+[17:12:52] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.model.ModelLoaderRegistry
+[17:12:52] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.gui.NotificationModUpdateScreen
+[17:12:52] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderBlockOverlayEvent$OverlayType
+[17:12:52] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderItemInFrameEvent
+[17:12:52] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderLivingEvent$Pre
+[17:12:52] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderLivingEvent$Post
+[17:12:52] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderLivingEvent$Specials$Pre
+[17:12:52] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderLivingEvent$Specials$Post
+[17:12:52] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.ScreenshotEvent
+[17:12:52] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.resource.VanillaResourceType
+[17:12:52] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.event.world.WorldEvent$Load
+[17:12:52] [Client thread/INFO]: [OptiFine] *** Reloading custom textures ***
+[17:13:01] [Client thread/ERROR]: Failed to save options
+java.io.FileNotFoundException: \options.txt (Access is denied)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:1.8.0_352]
+	at java.io.FileOutputStream.open(FileOutputStream.java:270) ~[?:1.8.0_352]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213) ~[?:1.8.0_352]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:162) ~[?:1.8.0_352]
+	at net.minecraft.client.settings.GameSettings.saveOptions(GameSettings.java:1470) [hexbyte/:?]
+	at net.minecraft.client.gui.GuiOptions.actionPerformed(GuiOptions.java:157) [hexbyte/:?]
+	at net.minecraft.client.gui.GuiScreen.mouseClicked(GuiScreen.java:484) [hexbyte/:?]
+	at net.minecraft.client.gui.GuiScreen.handleMouseInput(GuiScreen.java:589) [hexbyte/:?]
+	at net.minecraft.client.gui.GuiScreen.handleInput(GuiScreen.java:558) [hexbyte/:?]
+	at net.minecraft.client.Minecraft.runTick(Minecraft.java:1912) [hexbyte/:?]
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1220) [hexbyte/:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:491) [hexbyte/:?]
+	at net.minecraft.client.main.Main.main(Main.java:115) [hexbyte/:?]
+	at Start.main(Start.java:15) [hexbyte/:?]
+[17:13:01] [Client thread/WARN]: [OptiFine] Failed to save options
+[17:13:01] [Client thread/INFO]: [STDERR]: java.io.FileNotFoundException: \optionsof.txt (Access is denied)
+[17:13:01] [Client thread/INFO]: [STDERR]: 	at java.io.FileOutputStream.open0(Native Method)
+[17:13:01] [Client thread/INFO]: [STDERR]: 	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+[17:13:01] [Client thread/INFO]: [STDERR]: 	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+[17:13:01] [Client thread/INFO]: [STDERR]: 	at java.io.FileOutputStream.<init>(FileOutputStream.java:162)
+[17:13:01] [Client thread/INFO]: [STDERR]: 	at net.minecraft.client.settings.GameSettings.saveOfOptions(GameSettings.java:3265)
+[17:13:01] [Client thread/INFO]: [STDERR]: 	at net.minecraft.client.settings.GameSettings.saveOptions(GameSettings.java:1574)
+[17:13:01] [Client thread/INFO]: [STDERR]: 	at net.minecraft.client.gui.GuiOptions.actionPerformed(GuiOptions.java:157)
+[17:13:01] [Client thread/INFO]: [STDERR]: 	at net.minecraft.client.gui.GuiScreen.mouseClicked(GuiScreen.java:484)
+[17:13:01] [Client thread/INFO]: [STDERR]: 	at net.minecraft.client.gui.GuiScreen.handleMouseInput(GuiScreen.java:589)
+[17:13:01] [Client thread/INFO]: [STDERR]: 	at net.minecraft.client.gui.GuiScreen.handleInput(GuiScreen.java:558)
+[17:13:01] [Client thread/INFO]: [STDERR]: 	at net.minecraft.client.Minecraft.runTick(Minecraft.java:1912)
+[17:13:01] [Client thread/INFO]: [STDERR]: 	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1220)
+[17:13:01] [Client thread/INFO]: [STDERR]: 	at net.minecraft.client.Minecraft.run(Minecraft.java:491)
+[17:13:01] [Client thread/INFO]: [STDERR]: 	at net.minecraft.client.main.Main.main(Main.java:115)
+[17:13:01] [Client thread/INFO]: [STDERR]: 	at Start.main(Start.java:15)
+[17:13:01] [Client thread/ERROR]: Failed to save options
+java.io.FileNotFoundException: \options.txt (Access is denied)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:1.8.0_352]
+	at java.io.FileOutputStream.open(FileOutputStream.java:270) ~[?:1.8.0_352]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213) ~[?:1.8.0_352]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:162) ~[?:1.8.0_352]
+	at net.minecraft.client.settings.GameSettings.saveOptions(GameSettings.java:1470) [hexbyte/:?]
+	at net.minecraft.client.settings.GameSettings.setOptionValue(GameSettings.java:692) [hexbyte/:?]
+	at net.minecraft.client.gui.GuiVideoSettings.actionPerformed(GuiVideoSettings.java:108) [hexbyte/:?]
+	at net.minecraft.client.gui.GuiVideoSettings.actionPerformed(GuiVideoSettings.java:89) [hexbyte/:?]
+	at net.minecraft.client.gui.GuiScreen.mouseClicked(GuiScreen.java:484) [hexbyte/:?]
+	at net.optifine.gui.GuiScreenOF.mouseClicked(GuiScreenOF.java:20) [hexbyte/:?]
+	at net.minecraft.client.gui.GuiScreen.handleMouseInput(GuiScreen.java:589) [hexbyte/:?]
+	at net.minecraft.client.gui.GuiScreen.handleInput(GuiScreen.java:558) [hexbyte/:?]
+	at net.minecraft.client.Minecraft.runTick(Minecraft.java:1912) [hexbyte/:?]
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1220) [hexbyte/:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:491) [hexbyte/:?]
+	at net.minecraft.client.main.Main.main(Main.java:115) [hexbyte/:?]
+	at Start.main(Start.java:15) [hexbyte/:?]
+[17:13:01] [Client thread/WARN]: [OptiFine] Failed to save options
+[17:13:01] [Client thread/INFO]: [STDERR]: java.io.FileNotFoundException: \optionsof.txt (Access is denied)
+[17:13:01] [Client thread/INFO]: [STDERR]: 	at java.io.FileOutputStream.open0(Native Method)
+[17:13:01] [Client thread/INFO]: [STDERR]: 	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+[17:13:01] [Client thread/INFO]: [STDERR]: 	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+[17:13:01] [Client thread/INFO]: [STDERR]: 	at java.io.FileOutputStream.<init>(FileOutputStream.java:162)
+[17:13:01] [Client thread/INFO]: [STDERR]: 	at net.minecraft.client.settings.GameSettings.saveOfOptions(GameSettings.java:3265)
+[17:13:01] [Client thread/INFO]: [STDERR]: 	at net.minecraft.client.settings.GameSettings.saveOptions(GameSettings.java:1574)
+[17:13:01] [Client thread/INFO]: [STDERR]: 	at net.minecraft.client.settings.GameSettings.setOptionValue(GameSettings.java:692)
+[17:13:01] [Client thread/INFO]: [STDERR]: 	at net.minecraft.client.gui.GuiVideoSettings.actionPerformed(GuiVideoSettings.java:108)
+[17:13:01] [Client thread/INFO]: [STDERR]: 	at net.minecraft.client.gui.GuiVideoSettings.actionPerformed(GuiVideoSettings.java:89)
+[17:13:01] [Client thread/INFO]: [STDERR]: 	at net.minecraft.client.gui.GuiScreen.mouseClicked(GuiScreen.java:484)
+[17:13:01] [Client thread/INFO]: [STDERR]: 	at net.optifine.gui.GuiScreenOF.mouseClicked(GuiScreenOF.java:20)
+[17:13:01] [Client thread/INFO]: [STDERR]: 	at net.minecraft.client.gui.GuiScreen.handleMouseInput(GuiScreen.java:589)
+[17:13:01] [Client thread/INFO]: [STDERR]: 	at net.minecraft.client.gui.GuiScreen.handleInput(GuiScreen.java:558)
+[17:13:01] [Client thread/INFO]: [STDERR]: 	at net.minecraft.client.Minecraft.runTick(Minecraft.java:1912)
+[17:13:01] [Client thread/INFO]: [STDERR]: 	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1220)
+[17:13:01] [Client thread/INFO]: [STDERR]: 	at net.minecraft.client.Minecraft.run(Minecraft.java:491)
+[17:13:01] [Client thread/INFO]: [STDERR]: 	at net.minecraft.client.main.Main.main(Main.java:115)
+[17:13:01] [Client thread/INFO]: [STDERR]: 	at Start.main(Start.java:15)
+[17:13:02] [Client thread/ERROR]: Failed to save options
+java.io.FileNotFoundException: \options.txt (Access is denied)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:1.8.0_352]
+	at java.io.FileOutputStream.open(FileOutputStream.java:270) ~[?:1.8.0_352]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213) ~[?:1.8.0_352]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:162) ~[?:1.8.0_352]
+	at net.minecraft.client.settings.GameSettings.saveOptions(GameSettings.java:1470) [hexbyte/:?]
+	at net.minecraft.client.settings.GameSettings.setOptionValue(GameSettings.java:692) [hexbyte/:?]
+	at net.minecraft.client.gui.GuiVideoSettings.actionPerformed(GuiVideoSettings.java:108) [hexbyte/:?]
+	at net.minecraft.client.gui.GuiVideoSettings.actionPerformed(GuiVideoSettings.java:89) [hexbyte/:?]
+	at net.minecraft.client.gui.GuiScreen.mouseClicked(GuiScreen.java:484) [hexbyte/:?]
+	at net.optifine.gui.GuiScreenOF.mouseClicked(GuiScreenOF.java:20) [hexbyte/:?]
+	at net.minecraft.client.gui.GuiScreen.handleMouseInput(GuiScreen.java:589) [hexbyte/:?]
+	at net.minecraft.client.gui.GuiScreen.handleInput(GuiScreen.java:558) [hexbyte/:?]
+	at net.minecraft.client.Minecraft.runTick(Minecraft.java:1912) [hexbyte/:?]
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1220) [hexbyte/:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:491) [hexbyte/:?]
+	at net.minecraft.client.main.Main.main(Main.java:115) [hexbyte/:?]
+	at Start.main(Start.java:15) [hexbyte/:?]
+[17:13:02] [Client thread/WARN]: [OptiFine] Failed to save options
+[17:13:02] [Client thread/INFO]: [STDERR]: java.io.FileNotFoundException: \optionsof.txt (Access is denied)
+[17:13:02] [Client thread/INFO]: [STDERR]: 	at java.io.FileOutputStream.open0(Native Method)
+[17:13:02] [Client thread/INFO]: [STDERR]: 	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+[17:13:02] [Client thread/INFO]: [STDERR]: 	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+[17:13:02] [Client thread/INFO]: [STDERR]: 	at java.io.FileOutputStream.<init>(FileOutputStream.java:162)
+[17:13:02] [Client thread/INFO]: [STDERR]: 	at net.minecraft.client.settings.GameSettings.saveOfOptions(GameSettings.java:3265)
+[17:13:02] [Client thread/INFO]: [STDERR]: 	at net.minecraft.client.settings.GameSettings.saveOptions(GameSettings.java:1574)
+[17:13:02] [Client thread/INFO]: [STDERR]: 	at net.minecraft.client.settings.GameSettings.setOptionValue(GameSettings.java:692)
+[17:13:02] [Client thread/INFO]: [STDERR]: 	at net.minecraft.client.gui.GuiVideoSettings.actionPerformed(GuiVideoSettings.java:108)
+[17:13:02] [Client thread/INFO]: [STDERR]: 	at net.minecraft.client.gui.GuiVideoSettings.actionPerformed(GuiVideoSettings.java:89)
+[17:13:02] [Client thread/INFO]: [STDERR]: 	at net.minecraft.client.gui.GuiScreen.mouseClicked(GuiScreen.java:484)
+[17:13:02] [Client thread/INFO]: [STDERR]: 	at net.optifine.gui.GuiScreenOF.mouseClicked(GuiScreenOF.java:20)
+[17:13:02] [Client thread/INFO]: [STDERR]: 	at net.minecraft.client.gui.GuiScreen.handleMouseInput(GuiScreen.java:589)
+[17:13:02] [Client thread/INFO]: [STDERR]: 	at net.minecraft.client.gui.GuiScreen.handleInput(GuiScreen.java:558)
+[17:13:02] [Client thread/INFO]: [STDERR]: 	at net.minecraft.client.Minecraft.runTick(Minecraft.java:1912)
+[17:13:02] [Client thread/INFO]: [STDERR]: 	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1220)
+[17:13:02] [Client thread/INFO]: [STDERR]: 	at net.minecraft.client.Minecraft.run(Minecraft.java:491)
+[17:13:02] [Client thread/INFO]: [STDERR]: 	at net.minecraft.client.main.Main.main(Main.java:115)
+[17:13:02] [Client thread/INFO]: [STDERR]: 	at Start.main(Start.java:15)
+[17:13:02] [Client thread/ERROR]: Failed to save options
+java.io.FileNotFoundException: \options.txt (Access is denied)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:1.8.0_352]
+	at java.io.FileOutputStream.open(FileOutputStream.java:270) ~[?:1.8.0_352]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213) ~[?:1.8.0_352]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:162) ~[?:1.8.0_352]
+	at net.minecraft.client.settings.GameSettings.saveOptions(GameSettings.java:1470) [hexbyte/:?]
+	at net.minecraft.client.settings.GameSettings.setOptionValue(GameSettings.java:692) [hexbyte/:?]
+	at net.minecraft.client.gui.GuiVideoSettings.actionPerformed(GuiVideoSettings.java:108) [hexbyte/:?]
+	at net.minecraft.client.gui.GuiVideoSettings.actionPerformed(GuiVideoSettings.java:89) [hexbyte/:?]
+	at net.minecraft.client.gui.GuiScreen.mouseClicked(GuiScreen.java:484) [hexbyte/:?]
+	at net.optifine.gui.GuiScreenOF.mouseClicked(GuiScreenOF.java:20) [hexbyte/:?]
+	at net.minecraft.client.gui.GuiScreen.handleMouseInput(GuiScreen.java:589) [hexbyte/:?]
+	at net.minecraft.client.gui.GuiScreen.handleInput(GuiScreen.java:558) [hexbyte/:?]
+	at net.minecraft.client.Minecraft.runTick(Minecraft.java:1912) [hexbyte/:?]
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1220) [hexbyte/:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:491) [hexbyte/:?]
+	at net.minecraft.client.main.Main.main(Main.java:115) [hexbyte/:?]
+	at Start.main(Start.java:15) [hexbyte/:?]
+[17:13:02] [Client thread/WARN]: [OptiFine] Failed to save options
+[17:13:02] [Client thread/INFO]: [STDERR]: java.io.FileNotFoundException: \optionsof.txt (Access is denied)
+[17:13:02] [Client thread/INFO]: [STDERR]: 	at java.io.FileOutputStream.open0(Native Method)
+[17:13:02] [Client thread/INFO]: [STDERR]: 	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+[17:13:02] [Client thread/INFO]: [STDERR]: 	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+[17:13:02] [Client thread/INFO]: [STDERR]: 	at java.io.FileOutputStream.<init>(FileOutputStream.java:162)
+[17:13:02] [Client thread/INFO]: [STDERR]: 	at net.minecraft.client.settings.GameSettings.saveOfOptions(GameSettings.java:3265)
+[17:13:02] [Client thread/INFO]: [STDERR]: 	at net.minecraft.client.settings.GameSettings.saveOptions(GameSettings.java:1574)
+[17:13:02] [Client thread/INFO]: [STDERR]: 	at net.minecraft.client.settings.GameSettings.setOptionValue(GameSettings.java:692)
+[17:13:02] [Client thread/INFO]: [STDERR]: 	at net.minecraft.client.gui.GuiVideoSettings.actionPerformed(GuiVideoSettings.java:108)
+[17:13:02] [Client thread/INFO]: [STDERR]: 	at net.minecraft.client.gui.GuiVideoSettings.actionPerformed(GuiVideoSettings.java:89)
+[17:13:02] [Client thread/INFO]: [STDERR]: 	at net.minecraft.client.gui.GuiScreen.mouseClicked(GuiScreen.java:484)
+[17:13:02] [Client thread/INFO]: [STDERR]: 	at net.optifine.gui.GuiScreenOF.mouseClicked(GuiScreenOF.java:20)
+[17:13:02] [Client thread/INFO]: [STDERR]: 	at net.minecraft.client.gui.GuiScreen.handleMouseInput(GuiScreen.java:589)
+[17:13:02] [Client thread/INFO]: [STDERR]: 	at net.minecraft.client.gui.GuiScreen.handleInput(GuiScreen.java:558)
+[17:13:02] [Client thread/INFO]: [STDERR]: 	at net.minecraft.client.Minecraft.runTick(Minecraft.java:1912)
+[17:13:02] [Client thread/INFO]: [STDERR]: 	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1220)
+[17:13:02] [Client thread/INFO]: [STDERR]: 	at net.minecraft.client.Minecraft.run(Minecraft.java:491)
+[17:13:02] [Client thread/INFO]: [STDERR]: 	at net.minecraft.client.main.Main.main(Main.java:115)
+[17:13:02] [Client thread/INFO]: [STDERR]: 	at Start.main(Start.java:15)
+[17:13:03] [Client thread/ERROR]: Failed to save options
+java.io.FileNotFoundException: \options.txt (Access is denied)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:1.8.0_352]
+	at java.io.FileOutputStream.open(FileOutputStream.java:270) ~[?:1.8.0_352]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213) ~[?:1.8.0_352]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:162) ~[?:1.8.0_352]
+	at net.minecraft.client.settings.GameSettings.saveOptions(GameSettings.java:1470) [hexbyte/:?]
+	at net.minecraft.client.settings.GameSettings.setOptionValue(GameSettings.java:692) [hexbyte/:?]
+	at net.minecraft.client.gui.GuiVideoSettings.actionPerformed(GuiVideoSettings.java:108) [hexbyte/:?]
+	at net.minecraft.client.gui.GuiVideoSettings.actionPerformed(GuiVideoSettings.java:89) [hexbyte/:?]
+	at net.minecraft.client.gui.GuiScreen.mouseClicked(GuiScreen.java:484) [hexbyte/:?]
+	at net.optifine.gui.GuiScreenOF.mouseClicked(GuiScreenOF.java:20) [hexbyte/:?]
+	at net.minecraft.client.gui.GuiScreen.handleMouseInput(GuiScreen.java:589) [hexbyte/:?]
+	at net.minecraft.client.gui.GuiScreen.handleInput(GuiScreen.java:558) [hexbyte/:?]
+	at net.minecraft.client.Minecraft.runTick(Minecraft.java:1912) [hexbyte/:?]
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1220) [hexbyte/:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:491) [hexbyte/:?]
+	at net.minecraft.client.main.Main.main(Main.java:115) [hexbyte/:?]
+	at Start.main(Start.java:15) [hexbyte/:?]
+[17:13:03] [Client thread/WARN]: [OptiFine] Failed to save options
+[17:13:03] [Client thread/INFO]: [STDERR]: java.io.FileNotFoundException: \optionsof.txt (Access is denied)
+[17:13:03] [Client thread/INFO]: [STDERR]: 	at java.io.FileOutputStream.open0(Native Method)
+[17:13:03] [Client thread/INFO]: [STDERR]: 	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+[17:13:03] [Client thread/INFO]: [STDERR]: 	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+[17:13:03] [Client thread/INFO]: [STDERR]: 	at java.io.FileOutputStream.<init>(FileOutputStream.java:162)
+[17:13:03] [Client thread/INFO]: [STDERR]: 	at net.minecraft.client.settings.GameSettings.saveOfOptions(GameSettings.java:3265)
+[17:13:03] [Client thread/INFO]: [STDERR]: 	at net.minecraft.client.settings.GameSettings.saveOptions(GameSettings.java:1574)
+[17:13:03] [Client thread/INFO]: [STDERR]: 	at net.minecraft.client.settings.GameSettings.setOptionValue(GameSettings.java:692)
+[17:13:03] [Client thread/INFO]: [STDERR]: 	at net.minecraft.client.gui.GuiVideoSettings.actionPerformed(GuiVideoSettings.java:108)
+[17:13:03] [Client thread/INFO]: [STDERR]: 	at net.minecraft.client.gui.GuiVideoSettings.actionPerformed(GuiVideoSettings.java:89)
+[17:13:03] [Client thread/INFO]: [STDERR]: 	at net.minecraft.client.gui.GuiScreen.mouseClicked(GuiScreen.java:484)
+[17:13:03] [Client thread/INFO]: [STDERR]: 	at net.optifine.gui.GuiScreenOF.mouseClicked(GuiScreenOF.java:20)
+[17:13:03] [Client thread/INFO]: [STDERR]: 	at net.minecraft.client.gui.GuiScreen.handleMouseInput(GuiScreen.java:589)
+[17:13:03] [Client thread/INFO]: [STDERR]: 	at net.minecraft.client.gui.GuiScreen.handleInput(GuiScreen.java:558)
+[17:13:03] [Client thread/INFO]: [STDERR]: 	at net.minecraft.client.Minecraft.runTick(Minecraft.java:1912)
+[17:13:03] [Client thread/INFO]: [STDERR]: 	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1220)
+[17:13:03] [Client thread/INFO]: [STDERR]: 	at net.minecraft.client.Minecraft.run(Minecraft.java:491)
+[17:13:03] [Client thread/INFO]: [STDERR]: 	at net.minecraft.client.main.Main.main(Main.java:115)
+[17:13:03] [Client thread/INFO]: [STDERR]: 	at Start.main(Start.java:15)
+[17:13:19] [Server thread/INFO]: Starting integrated minecraft server version 1.12.2
+[17:13:19] [Server thread/INFO]: Generating keypair
+[17:13:20] [Server thread/INFO]: Loaded 488 advancements
+[17:13:20] [Server thread/INFO]: Preparing start region for level 0
+[17:13:21] [Server thread/INFO]: Preparing spawn area: 25%
+[17:13:22] [Server thread/INFO]: Preparing spawn area: 91%
+[17:13:22] [Server thread/INFO]: Changing view distance to 8, from 10
+[17:13:24] [Server thread/INFO]: Penis[local:E:18329539] logged in with entity id 363 at (-16.17835399634992, 118.37429331309657, 309.96430679599246)
+[17:13:24] [Server thread/INFO]: Penis joined the game
+[17:13:26] [Server thread/INFO]: Saving and pausing game...
+[17:13:26] [Server thread/INFO]: Saving chunks for level 'New World'/overworld
+[17:13:26] [Server thread/INFO]: Saving chunks for level 'New World'/the_nether
+[17:13:26] [Server thread/INFO]: Saving chunks for level 'New World'/the_end
+[17:13:34] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5189ms behind, skipping 103 tick(s)
+[17:14:45] [Client thread/ERROR]: Failed to save options
+java.io.FileNotFoundException: \options.txt (Access is denied)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:1.8.0_352]
+	at java.io.FileOutputStream.open(FileOutputStream.java:270) ~[?:1.8.0_352]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213) ~[?:1.8.0_352]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:162) ~[?:1.8.0_352]
+	at net.minecraft.client.settings.GameSettings.saveOptions(GameSettings.java:1470) [hexbyte/:?]
+	at net.minecraft.client.tutorial.Tutorial.setStep(Tutorial.java:130) [hexbyte/:?]
+	at net.minecraft.client.tutorial.MovementStep.update(MovementStep.java:79) [hexbyte/:?]
+	at net.minecraft.client.tutorial.Tutorial.update(Tutorial.java:111) [hexbyte/:?]
+	at net.minecraft.client.Minecraft.runTick(Minecraft.java:2019) [hexbyte/:?]
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1220) [hexbyte/:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:491) [hexbyte/:?]
+	at net.minecraft.client.main.Main.main(Main.java:115) [hexbyte/:?]
+	at Start.main(Start.java:15) [hexbyte/:?]
+[17:14:45] [Client thread/WARN]: [OptiFine] Failed to save options
+[17:14:45] [Client thread/INFO]: [STDERR]: java.io.FileNotFoundException: \optionsof.txt (Access is denied)
+[17:14:45] [Client thread/INFO]: [STDERR]: 	at java.io.FileOutputStream.open0(Native Method)
+[17:14:45] [Client thread/INFO]: [STDERR]: 	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+[17:14:45] [Client thread/INFO]: [STDERR]: 	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+[17:14:45] [Client thread/INFO]: [STDERR]: 	at java.io.FileOutputStream.<init>(FileOutputStream.java:162)
+[17:14:45] [Client thread/INFO]: [STDERR]: 	at net.minecraft.client.settings.GameSettings.saveOfOptions(GameSettings.java:3265)
+[17:14:45] [Client thread/INFO]: [STDERR]: 	at net.minecraft.client.settings.GameSettings.saveOptions(GameSettings.java:1574)
+[17:14:45] [Client thread/INFO]: [STDERR]: 	at net.minecraft.client.tutorial.Tutorial.setStep(Tutorial.java:130)
+[17:14:45] [Client thread/INFO]: [STDERR]: 	at net.minecraft.client.tutorial.MovementStep.update(MovementStep.java:79)
+[17:14:45] [Client thread/INFO]: [STDERR]: 	at net.minecraft.client.tutorial.Tutorial.update(Tutorial.java:111)
+[17:14:45] [Client thread/INFO]: [STDERR]: 	at net.minecraft.client.Minecraft.runTick(Minecraft.java:2019)
+[17:14:45] [Client thread/INFO]: [STDERR]: 	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1220)
+[17:14:45] [Client thread/INFO]: [STDERR]: 	at net.minecraft.client.Minecraft.run(Minecraft.java:491)
+[17:14:45] [Client thread/INFO]: [STDERR]: 	at net.minecraft.client.main.Main.main(Main.java:115)
+[17:14:45] [Client thread/INFO]: [STDERR]: 	at Start.main(Start.java:15)
+[17:14:55] [Server thread/INFO]: <Penis> юиштв
+[17:14:55] [Client thread/INFO]: [CHAT] <Penis> юиштв
+[17:14:56] [Client thread/INFO]: [CHAT] §7[§fhexbyte§7]  -> §7.bind add <name> <key> / .bind remove <name> <key>
+[17:14:57] [Server thread/INFO]: <Penis> .f
+[17:14:57] [Client thread/INFO]: [CHAT] <Penis> .f
+[17:15:06] [Client thread/INFO]: [CHAT] §7[§fhexbyte§7]  -> §7§bAura§7 Добавлен бинд на клавишу R
+[17:15:37] [Server thread/INFO]: Saving and pausing game...
+[17:15:37] [Server thread/INFO]: Saving chunks for level 'New World'/overworld
+[17:15:38] [Server thread/INFO]: Saving chunks for level 'New World'/the_nether
+[17:15:38] [Server thread/INFO]: Saving chunks for level 'New World'/the_end
+[17:16:49] [Client thread/INFO]: [CHAT] §7[§fhexbyte§7]  -> §7.bind add <name> <key> / .bind remove <name> <key>
+[17:16:51] [Server thread/INFO]: Saving and pausing game...
+[17:16:51] [Server thread/INFO]: Saving chunks for level 'New World'/overworld
+[17:16:51] [Server thread/INFO]: Saving chunks for level 'New World'/the_nether
+[17:16:51] [Server thread/INFO]: Saving chunks for level 'New World'/the_end
+[17:17:06] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3516ms behind, skipping 70 tick(s)
+[17:17:11] [Client thread/INFO]: [CHAT] §7[§fhexbyte§7]  -> §7§bSpeed§7 Добавлен бинд на клавишу X
+[17:17:33] [Server thread/INFO]: Saving and pausing game...
+[17:17:33] [Server thread/INFO]: Saving chunks for level 'New World'/overworld
+[17:17:33] [Server thread/INFO]: Saving chunks for level 'New World'/the_nether
+[17:17:33] [Server thread/INFO]: Saving chunks for level 'New World'/the_end
+[17:17:36] [Server thread/INFO]: Saving and pausing game...
+[17:17:36] [Server thread/INFO]: Saving chunks for level 'New World'/overworld
+[17:17:37] [Server thread/INFO]: Saving chunks for level 'New World'/the_nether
+[17:17:37] [Server thread/INFO]: Saving chunks for level 'New World'/the_end
+[17:17:45] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3451ms behind, skipping 69 tick(s)
+[17:18:16] [Server thread/INFO]: Saving and pausing game...
+[17:18:16] [Server thread/INFO]: Saving chunks for level 'New World'/overworld
+[17:18:16] [Server thread/INFO]: Saving chunks for level 'New World'/the_nether
+[17:18:16] [Server thread/INFO]: Saving chunks for level 'New World'/the_end
+[17:18:24] [Server thread/INFO]: Saving and pausing game...
+[17:18:24] [Server thread/INFO]: Saving chunks for level 'New World'/overworld
+[17:18:25] [Server thread/INFO]: Saving chunks for level 'New World'/the_nether
+[17:18:25] [Server thread/INFO]: Saving chunks for level 'New World'/the_end
+[17:18:25] [Server thread/INFO]: Stopping server
+[17:18:25] [Server thread/INFO]: Saving players
+[17:18:25] [Server thread/INFO]: Penis lost connection: Disconnected
+[17:18:25] [Server thread/INFO]: Penis left the game
+[17:18:25] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[17:18:25] [Server thread/INFO]: Saving worlds
+[17:18:25] [Server thread/INFO]: Saving chunks for level 'New World'/overworld
+[17:18:25] [Server thread/INFO]: Saving chunks for level 'New World'/the_nether
+[17:18:25] [Server thread/INFO]: Saving chunks for level 'New World'/the_end
+[17:18:26] [Client thread/INFO]: Stopping!
+[17:18:26] [Client thread/INFO]: SoundSystem shutting down...
+[17:18:26] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
