@@ -45,11 +45,11 @@ public class HUD extends Module {
             WaterMark dwm = (WaterMark) Hexbyte.getInstance().draggable.getDraggableComponentByClass(WaterMark.class);
             dwm.setWidth(150);
             dwm.setHeight(17);
-            String text = "" + Minecraft.getDebugFPS() + " fps" + "    " + "apraxia1337" +  "    " + "beta";
-            RoundedUtility.drawRound(dwm.getX() + 3.0F, dwm.getY() + 4.0F, (float) (Fonts.nl14.getStringWidth(text) + 56), 12, 2, new Color(9, 9, 9, 255));
-            Fonts.nl14.drawString(text, dwm.getX() + 55.0F, dwm.getY() + 8.5f, -1);
-            Fonts.nlbolt18.drawString("HEXBYTE", dwm.getX() + 5.7F, dwm.getY() + 8, new Color(hudColor.color).getRGB());
-            Fonts.nlbolt18.drawString("HEXBYTE", dwm.getX() + 6.0F, dwm.getY() + 8.4f, -1);
+            String text = "" + Minecraft.getDebugFPS() + " fps";
+            RoundedUtility.drawRound(dwm.getX() + 3.0F, dwm.getY() + 4.0F, (float) (Fonts.nl14.getStringWidth(text) + 81), 12, 2, new Color(9, 9, 9, 255));
+            Fonts.nl14.drawString(text, dwm.getX() + 80.0F, dwm.getY() + 8.5f, -1);
+            Fonts.nlbolt14.drawString("HEXBYTE REBORN", dwm.getX() + 5.7F, dwm.getY() + 8, new Color(hudColor.color).getRGB());
+            Fonts.nlbolt14.drawString("HEXBYTE REBORN", dwm.getX() + 6.0F, dwm.getY() + 8.4f, -1);
         if (armor.value) {
             ScaledResolution sr = new ScaledResolution(mc);
             int count = 0;
@@ -90,8 +90,6 @@ public class HUD extends Module {
             Fonts.sfbolt14.drawStringWithOutline(coords1, 5, (float)hach,(new Color(255, 255, 255, 255)).getRGB());
             Fonts.sfbolt14.drawStringWithOutline("FPS:", 5.0F, (float)(hach - 9), -1);
             Fonts.sfbolt14.drawStringWithOutline(fps, 23.0F, (float)(hach - 9),  (new Color(182, 182, 182, 255)).getRGB());
-            Fonts.sfbolt14.drawStringWithShadow("UID: ", (float)(sr.getScaledWidth() - 25), (float)hach, -1);
-            Fonts.sfbolt14.drawStringWithShadow(" 1", (float)(sr.getScaledWidth() - 10), (float)hach, (new Color(182, 182, 182, 255)).getRGB());
         }
     }
 

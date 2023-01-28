@@ -61,10 +61,11 @@ public final class NotificationRenderer implements Utility {
 
                 GlStateManager.pushMatrix();
                 GlStateManager.disableBlend();
-                RoundedUtility.drawRound((float)notification.x, (float)(notification.y - 10.0), (float)sr.getScaledWidth(), 27.0F, 3.0F, new Color(9, 9, 9));
-                Fonts.icons30.drawString(notification.getType().getIconString(), (float)(notification.x + 5.0), (float)(notification.y - 1.0), (new Color(255, 255, 255)).getRGB());
-                Fonts.sfsemib14.drawString(notification.getTitle(), (float)(notification.x + 25.0), (float)(notification.y - 4.0), -1);
-                Fonts.medium14.drawString(notification.getContent(), (float)(notification.x + 25.0), (float)(notification.y + 8.0), -1);
+                float xPos = (float)notification.x - 20 - Fonts.sfsemib16.getStringWidth(notification.getTitle());
+                RoundedUtility.drawRound(xPos, (float)(notification.y - 10.0), (float)sr.getScaledWidth(), 17.0F, 3.0F, new Color(9, 9, 9));
+                Fonts.icons20.drawString(notification.getType().getIconString(), xPos + 5, (float)(notification.y - 4.5f), (new Color(255, 255, 255)).getRGB());
+                Fonts.sfsemib16.drawString(notification.getTitle(), xPos + 20, (float)(notification.y - 4.5f), -1);
+                Fonts.sfsemib16.drawString(notification.getContent(), (float)notification.x + 3, (float)(notification.y - 4.5f), -1);
                 GlStateManager.popMatrix();
             }
         }

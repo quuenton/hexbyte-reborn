@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="hexbyte">
+    <output-path>$PROJECT_DIR$/out/artifacts/hexbyte</output-path>
+    <root id="archive" name="hexbyte.jar">
+      <element id="module-output" name="hexbyte" />
+    </root>
+  </artifact>
+</component>

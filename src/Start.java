@@ -12,6 +12,6 @@ public class Start
 {
 
     public static void main(String[] args) throws AuthenticationException {
-        Main.main(new String[]{"--version", "mcp", "--accessToken", "0", "--gameDir", "", "--assetsDir", "", "--assetIndex", "1.12", "--userProperties", "{}", "--username", "Penis"});
+        Main.main(new String[]{"--version", "mcp", "--accessToken", "0", "--gameDir", "", "--assetsDir", "", "--assetIndex", "1.12", "--userProperties", "{}", "--username", "va4favds"});
     }
 }

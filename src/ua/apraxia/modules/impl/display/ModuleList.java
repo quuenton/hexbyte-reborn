@@ -33,7 +33,7 @@ public class ModuleList extends Module {
     public static SliderSetting offsetbg = new SliderSetting("ArrayList Offset", 0.5f, 0.1f, 10, 0.1F);
     public static SliderSetting colorSpeed = new SliderSetting("Color Speed", 5, 1, 30, 0.2F);
     public static SliderSetting colorOffset = new SliderSetting("Color Offset", 5, 1, 8, 0.1F);
-    public static SliderSetting xBgPos = new SliderSetting("X BG Pos", 2, 0.5f, 10, 0.1F);
+    public static SliderSetting xBgPos = new SliderSetting("X BG Pos", 2, 0.1f, 10, 0.1F);
     public static SliderSetting xListPos = new SliderSetting("X ArrayList Pos", 2, 0.5f, 10, 0.1F);
     public static ColorSetting color = new ColorSetting("Array Color", new Color(111, 90, 253).getRGB());
     public static ColorSetting coloralt = new ColorSetting("Alt Color", new Color(251, 251, 255).getRGB());

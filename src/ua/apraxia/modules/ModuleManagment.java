@@ -70,6 +70,7 @@ public class ModuleManagment {
         modules.add(new GuiMove());
         modules.add(new Sprint());
         modules.add(new HUD());
+        modules.add(new CDLeave());
     }
 
     public List<Module> getAllFeatures() {

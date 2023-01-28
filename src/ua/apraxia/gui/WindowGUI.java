@@ -64,20 +64,17 @@ public class WindowGUI extends GuiScreen {
                  RenderUtility.drawBlurredShadow(x + 110, y, width -110, height, 0, new Color(0, 0, 0, 245));
             RenderUtility.drawBlurredShadow(x, y, 110, height, 0, new Color(0, 0, 0, 195));
             RenderUtility.drawBlurredShadow(x +110, y, 1, height, 0, new Color(8, 11, 20, 255));
-            RenderUtility.drawBlurredShadow(x, y +310, 110, 1, 0,  new Color(8, 11, 20, 255));
+        //            RenderUtility.drawBlurredShadow(x, y +310, 110, 1, 0,  new Color(8, 11, 20, 255));
             StencilUtility.initStencilToWrite();
-            RenderUtility.drawFCircle(x + 19, y + 326, 0, 360, 9, true, new Color(26, 80, 67, 255));
             StencilUtility.readStencilBuffer(1);
-            RenderUtility.drawImage(new ResourceLocation("stardust/images/ava.png"), x + 9, y + 315, 21, 21, new Color(255, 255, 255));
-            RenderUtility.drawCircle(x + 19, y + 326, 0, 360, 10,  new Color(0, 4, 14, 73).getRGB(), 2);
+//            RenderUtility.drawCircle(x + 19, y + 326, 0, 360, 10,  new Color(0, 4, 14, 73).getRGB(), 2);
             StencilUtility.initStencilToWrite();
             RoundedUtility.drawRound(x, y +2, width, height -3, 10, false, new Color(4, 6, 10, 255));
             StencilUtility.readStencilBuffer(1);
-            Fonts.nlbolt30.drawString("HEXBYTE", x + 18.3F, y + 13, new Color(3, 167, 243, 255).getRGB());
-            Fonts.nlbolt30.drawString("HEXBYTE", x + 19, y + 13, new Color(255, 255, 255, 255).getRGB());
-            Fonts.sfsemib14.drawString("apraxia1337", x + 35, y + 320, new Color(255, 255, 255, 255).getRGB());
-            Fonts.medium14.drawString("till: ", x + 35, y + 330, new Color(51, 68, 94, 255).getRGB());
-            Fonts.medium14.drawString("unlimited", x + 48, y + 330, new Color(3, 167, 243, 255).getRGB());
+            Fonts.nlbolt30.drawString("HEXBYTE", x + 18.3F, y + 11, new Color(3, 167, 243, 255).getRGB());
+            Fonts.nlbolt30.drawString("HEXBYTE", x + 19, y + 11, new Color(255, 255, 255, 255).getRGB());
+            Fonts.nlbolt18.drawString("REBORN", x + 34.3F, y + 28, new Color(3, 167, 243, 255).getRGB());
+            Fonts.nlbolt18.drawString("REBORN", x + 35, y + 28, new Color(255, 255, 255, 255).getRGB());
             int offset1 = 0;
             openedCategoryAnim = (float) AnimationUtil.Interpolate(openedCategoryAnim, 0, 0.1f);
             drawModules(mouseX, mouseY, x, y + openedCategoryAnim);
@@ -124,7 +121,8 @@ public class WindowGUI extends GuiScreen {
                     modeHeight += 10;
                 }}
             float heightModule = 25 + 25 * m.getSetting().size() + modeHeight;
-            RoundedUtility.drawRoundOutline(x + 125, y + 25 + offset + animScroll, 265, heightModule, 3, -0.5f,  new Color(0, 0, 0, 158),   new Color(17, 22, 42, 255));
+            RoundedUtility.drawRoundOutline(x + 125, y + 25 + offset + animScroll, 265, heightModule, 3, -0.5f,  new Color(0, 0, 0, 158),   new Color(21, 57, 183, 255));
+//            RoundedUtility.drawRoundOutline(x + 125, y + 25 + offset + animScroll, 265, heightModule, 3, -0.5f,  new Color(0, 0, 0, 158),   new Color(17, 22, 42, 255));
             if(m.settingList.size() != 0) {
                 RenderUtility.drawBlurredShadow(x + 130, y + 45 + offset + animScroll, 257, 1, 0, new Color(11, 15, 22, 179));
             }

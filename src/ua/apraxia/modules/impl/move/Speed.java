@@ -15,7 +15,7 @@ import ua.apraxia.utility.other.MoveUtility;
 public class Speed extends Module {
     public static float ticks = 0;
     public TimerUtility timerHelper = new TimerUtility();
-    private final ModeSetting speedMode = new ModeSetting("Speed Mode", "Sunrise", "Sunrise2");
+    private final ModeSetting speedMode = new ModeSetting("Speed Mode", "Sunrise", "Sunrise2", "Matrix", "NCP");
 
     public Speed() {
         super("Speed", Categories.Movement);
